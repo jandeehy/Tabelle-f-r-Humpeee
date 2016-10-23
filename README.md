@@ -1,2 +1,2 @@
-# Tabelle-f-r-Humpeee
+# Table for Humpeee
 This is a simple Table in HTML
