@@ -45,26 +45,6 @@
                 </tbody>
             </table>
         </div>
-            <!--        <table align="center">
-                        <caption>+Regeln+</caption>
-                        <tr>
-                            <td>Regel</td>
-                            <td>Strafe</td>
-                            <td>Bemerkung</td>
-                        </tr>
-                        <br>
-                        <tr>
-                            <td>Nicht beleidigen</td><td>Beleidigen wird bestraft mit einem Bann!</td><td>---</td>
-                        </tr>
-                        <br>
-                        <tr>
-                            <td>Nicht schreien</td><td>Schreien wird bestraft mit einem Bann von 24h!</td><td>---</td>
-                        </tr>
-                        <br>
-                        <tr>
-                            <td>Immer auf die Team-Mitglieder hören</td><td>Den Forderungen der Team-Mitglieder nicht nachgehen wird bestraft mit einem Kick oder einem Bann von 24h!</td><td>---</td>
-                        </tr>
-                    </table>-->
 
         <footer>
         </footer>
